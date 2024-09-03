@@ -3,6 +3,9 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <h1>Proute</h1>
+    <div>
+      <h1>Proute</h1>
+      <p>Joshua le poulet</p>
+    </div>
   );
 }
